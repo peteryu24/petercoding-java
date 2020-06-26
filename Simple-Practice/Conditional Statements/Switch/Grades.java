@@ -12,7 +12,7 @@ public class SwitchGrades {
 		System.out.print("Enter your score: ");
 		score = scan.nextInt();
 
-		num = score / 10; // Easier for cases
+		num = score / 10; //  Easier for cases
 
 		switch (num) {
 		case 10:
