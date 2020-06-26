@@ -22,7 +22,7 @@ public class IfGrades {
 			grade = 'F';
 		}
 
-		System.out.println("Your score is " + grade + ".");
+		System.out.println("Your score is  " + grade + ".");
 
 	}
 
