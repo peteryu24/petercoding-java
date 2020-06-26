@@ -7,7 +7,7 @@ public class ForStarSquare {
 			for (int j = 0; j < 7; j++) {
 				System.out.print("*");
 			}
-			System.out.println(); // change of rows
+			System.out.println(); //  change of rows
 		}
 	}
 
