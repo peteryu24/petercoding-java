@@ -14,7 +14,7 @@ public class IfPositiveOrNegative {
 		} else if (num < 0) {
 			System.out.println("It is a negative number.");
 		} else {
-			System.out.println("It is zero.");
+			System.out.println("It is  zero.");
 		}
 	}
 
