@@ -22,7 +22,7 @@ public class Cal {
 		Calcal cal1 = new Calcal();
 		cal1.setNum(10, 20);
 		cal1.sum(); // 10+20
-		cal1.avg(); // (10 +20) / 2
+		cal1.avg(); // (10 +20) /  2
 
 		Calcal cal2 = new Calcal();
 		cal2.setNum(20, 30);
