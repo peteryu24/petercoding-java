@@ -6,7 +6,7 @@ public class Caculator {
 	}
 
 	public static void main(String[] args) {
-		sum(10, 20);
+		sum(10, 20); // 10 + 20
 
 	}
 }
