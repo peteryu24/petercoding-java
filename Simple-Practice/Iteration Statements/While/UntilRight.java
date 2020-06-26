@@ -11,7 +11,7 @@ public class WhileUntilRight {
 		do {
 			System.out.print("Enter a number between 1~5: ");
 			num = scan.nextInt();
-		} while (num < 1 || num > 5); // loops until it's false
+		} while (num < 1 || num > 5); //  loops until it's false
 
 	}
 
