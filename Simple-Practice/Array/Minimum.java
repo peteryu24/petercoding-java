@@ -17,7 +17,7 @@ public class ArrayMinimum {
 
 		for (int i = 0; i < arr.length; i++) {
 			if (arr[i] < mini) {
-				mini = arr[i]; // changes the minimum
+				mini = arr[i]; //  changes the minimum
 			}
 		}
 		System.out.println("The minimum number is: " + mini + ".");
