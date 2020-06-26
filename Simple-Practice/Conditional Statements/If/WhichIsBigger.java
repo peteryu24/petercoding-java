@@ -19,7 +19,7 @@ public class IfWhichIsBigger {
 		} else if (x < y) {
 			max = y;
 		} else {
-			System.out.println("Error"); // Two numbers are the same.
+			System.out.println("Error"); //  Two numbers are the same.
 			System.exit(0);
 		}
 
