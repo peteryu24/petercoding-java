@@ -16,7 +16,7 @@ public class ForFactorial {
 			fac *= i; // fac = fac * i
 		}
 
-		System.out.printf("%d! is %d. ", num, fac); // %d gives a fixed number
+		System.out.printf("%d! is %d. ", num, fac); //  %d gives a fixed number
 
 	}
 
