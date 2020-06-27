@@ -2,7 +2,7 @@ public class Variable {
 	static int i; // global variable
 
 	static void a() {
-		i = 0;
+		i = 0; // int i = 0; will end the infinity 'for' loop
 	}
 
 	public static void main(String[] args) {
