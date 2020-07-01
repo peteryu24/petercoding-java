@@ -2,7 +2,7 @@ public interface Inter { // interface
 	public void setOprands(int first, int second, int third);
 
 	public int sum(); // all methods in Interface must be a 'public' method
-
+			  // can't have a logic also
 	public int avg();
 }
 
