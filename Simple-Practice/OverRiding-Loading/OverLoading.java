@@ -6,7 +6,7 @@ class OverLoading {
 		this.right = right;
 	}
 
-	public void setOprands(int left, int middle, int right) {  // overloading = having a different parameter
+	public void setOprands(int left, int middle, int right) {  //  overloading = having a different parameter
 		this.left = left;
 		this.right = right;
 		this.middle = middle;
