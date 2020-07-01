@@ -1,6 +1,6 @@
 abstract class Alpha {
 	abstract void a(); // abstract method. Must define by inheriting
-
+			   // abstract method cannot have a logic
 	void b() {
 		System.out.println("Hello.");
 	}
