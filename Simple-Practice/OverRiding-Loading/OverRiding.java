@@ -15,7 +15,7 @@ class OverRiding {
  
 class RideOver extends OverRiding {
      
-    public void sum() {                                                     // overriding the sum() method
+    public void sum() {                                                      // overriding the sum() method
         System.out.println("The result is " +(this.left + this.right)+".");
     }
      
