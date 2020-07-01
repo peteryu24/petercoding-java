@@ -28,7 +28,7 @@ class RideOver extends OverRiding2 {
 	}
 
 	public int avg() {
-		return super.avg(); // super can be usable
+		return super.avg(); //  super can be usable
 		System.out.println(this.left + this.right + 3);
 	}
 }
