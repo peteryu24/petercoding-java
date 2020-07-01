@@ -1,7 +1,7 @@
 public interface Inter { // interface
 	public void setOprands(int first, int second, int third);
 
-	public int sum();
+	public int sum(); // all methods in Interface must be a 'public' method
 
 	public int avg();
 }
