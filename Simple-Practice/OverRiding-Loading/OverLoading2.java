@@ -1,4 +1,4 @@
-class OverLoadingAdvanced {
+class OverLoading2 {
 	int left, middle, right;
 
 	public void setOprands(int left, int right) {
@@ -24,7 +24,7 @@ class OverLoadingAdvanced {
 
 }
 
-class LoadOver extends OverLoadingAdvanced {
+class LoadOver extends OverLoading2 {
 
 	public void sum() {
 		System.out.println("The result is " + (this.left + this.right) + ".");
