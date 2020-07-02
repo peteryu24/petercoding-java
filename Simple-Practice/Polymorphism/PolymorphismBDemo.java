@@ -16,7 +16,7 @@ class D implements I2, I3 {
 	}
 }
 
-public class PolymorphismB {
+public class PolymorphismBDemo {
 	public static void main(String[] args) {
 		D obj = new D();
 		I2 objI2 = new D();
