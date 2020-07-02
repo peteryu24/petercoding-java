@@ -28,7 +28,7 @@ public class PolymorphismBDemo {
 		objI2.A();
 		// objI2.B(); error , I2 doesn't have a 'B' method
 
-		// objI3.A(); error for the same reason
+		// objI3.A();  error for the same reason
 		objI3.B();
 	}
 }
