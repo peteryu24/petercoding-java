@@ -1,4 +1,4 @@
-public class Error {
+public class ErrorA {
 	public static void main(String[] args) {
 
 		try {
