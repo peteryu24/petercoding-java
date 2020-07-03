@@ -16,7 +16,7 @@ class Arithmetic {
 		} else {
 			System.out.println(this.two / this.one);
 		}
-		System.out.println("Will this print? ");
+		System.out.println("Will this print?"); // No it won't.
 	}
 
 	void divide2() {
@@ -29,7 +29,7 @@ class Arithmetic {
 		} else {
 			System.out.println(this.two / this.one);
 		}
-		System.out.println("Will this print?");
+		System.out.println("Will this print?"); // No it won't.
 	}
 }
 
