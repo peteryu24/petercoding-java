@@ -1,4 +1,4 @@
-abstract class Info {
+abstract class Info { //abstract
 	public abstract int getNum();
 }
 
