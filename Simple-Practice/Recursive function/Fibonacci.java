@@ -9,7 +9,7 @@ public class Fibonacci {
 		System.out.println(fibo(n));
 	}
 	static int fibo(int a) {
-		if(a<=0) {
+		if(a<=1) {
 			return 0;
 		}else if(a==2){
 			return 1;
